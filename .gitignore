@@ -1,0 +1,5 @@
+bin/Debug/WoWClassicSim.exe.config
+bin/
+obj/
+.vs/
+packages/
